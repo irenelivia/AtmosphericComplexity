@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b3b7f1248367a5361838aec05bbef0931a35a8881e7a2a6233a37e0de66be266
-size 272
+A toolbox for all your Atmospheric Complexity needs.
+
+'Useful_plotting_scripts.ipynb' is a Jupyter notebook that contains short scripts for opening netcdf datasets with xarray, plotting these datasets, making animations and using Cartopy to plot on maps. 
+'sample_data' is a folder that contiains all the sample data necessary for running the 'Useful_plotting_scripts.ipynb'
